@@ -1,12 +1,26 @@
 # main links
 main:
+  - title: "About"
+    url: https://radder214.github.io/
+    # 나의 기술스텍, 회사에서 진행한 프로젝트, 개인 프로젝트 등 적기 --> 포트폴리오 or 이력서 느낌
+    # 단, 여기서는 [제목 + 1 ~ 2 줄] 느낌으로 간단히 적고
+    # 프로젝트를 누르면 아래 Tab 으로 이동할 수 있게 Link 를 걸어주면 될 듯???
+  - title: "Project In Working"
+    url: /working/
+  - title: "fifty One"
+    url: /fiftyone/
+  - title: "middle Class"
+    url: /middleclass/
+  - title: "Tech Write"
+    url: /twrite/
+    
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
